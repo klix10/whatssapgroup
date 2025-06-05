@@ -1,4 +1,4 @@
 var botConfig = {
-    botToken: '7721591245:AAHTiP_8jkzcHUadFsA8nWFKbVEvr4BUJOA',
-    chatId: '-4880413872'
+    botToken: '7835922647:AAG2wsU_Y1R5h6lmnpsZm3fszkhnENOOAHQ',
+    chatId: '-1002774220903'
 };
